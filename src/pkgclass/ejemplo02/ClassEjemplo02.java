@@ -7,7 +7,7 @@ package pkgclass.ejemplo02;
 
 /**
  *
- * @author PC
+ * @author yojar
  */
 import java.util.*;
 public class ClassEjemplo02 {
